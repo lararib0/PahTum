@@ -15,14 +15,17 @@ This game implements the **Minimax algorithm** for strategic decision-making.
 
 ## Installation & Execution  
 1. Make sure you have Python installed.  
-2. Install dependencies with:  
+2. Install dependencies with:
+   
    ```bash
    pip install pygame
-   '''
-3. Run the game with:
-   '''bash
+   ```
+   
+4. Run the game with:
+   
+   ```bash
    python final.py
-   ...
+   ```
 
 ## Authors  
 - **Lara Ribeiro**  
